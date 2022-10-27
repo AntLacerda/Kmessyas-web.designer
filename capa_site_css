@@ -119,5 +119,9 @@ footer{
     width: 100%;
 }
 
+.p2{
+    padding-botton: 20px;
+}
+
 
 
