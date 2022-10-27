@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <script src="https://kit.fontawesome.com/2b1c3410d4.js" crossorigin="anonymous"></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <img src="logo site.png">
+            </div>
+            <div class="menu">
+                <nav>
+                    <a href="index2.html">Portfólio</a>
+                    <a href="#">Sobre</a>
+                    <a href="#">Contato</a>
+                </nav>
+            </div>
+            <div class="redes">
+                <button><i class="fa-brands fa-behance"></i></button>
+                <button><i class="fa-brands fa-instagram"></i></button>
+                <button><i class="fa-brands fa-github"></i></button>
+            </div>
+        </div>
+    </header>
+    <body>
+        <div class="bodycontainer">
+            <div class="imagens">
+                <div class="a"><img src="Logo com fundo preto.png"></div>
+                <div class="b"><img src="Procissão.png"></div>
+                <div class="c"><img src="VENDE-SE.png"></div>
+                <div class="d"><img src="" alt=""></div>
+            </div>
+            <div class="textosbody">
+                <p class="p1">Logotipos</p>
+                <p class="p2">Flyers(católicos, empresas)</p>
+                <p class="p3">Outros</p>
+            </div>
+        </div>
+    </body>
+    <footer>
+        
+    </footer>
+</html>
